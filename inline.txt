@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>inline</title>
+</head>
+<body>
+    <p1 style="color: firebrick">This Is Red<br></p1>
+    <p2 style="color: black">This Is Thick<br></p2>
+    <p3 style="color: green">This Is Green<br></p3>
+    <p4 style="color: green">This Is Thick And Green<br></p4>
+    
+</body>
+</html>
